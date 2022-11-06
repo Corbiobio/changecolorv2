@@ -1,0 +1,30 @@
+body{
+    background-color: #ffffff;
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+
+}
+p{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 30px;
+}
+#button{
+    margin-top:9%;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 50px;
+    background-color: rgb(107, 223, 238);
+}
+#reset{   
+    margin-top:10%;
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 50px;
+    background-color: rgb(107, 223, 238);
+}
